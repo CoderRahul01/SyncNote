@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-aiplatform[agent_engines]
+google-cloud-secret-manager
+python-dotenv
+httpx
+pydantic
+matplotlib
+seaborn
